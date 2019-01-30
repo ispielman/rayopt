@@ -35,7 +35,7 @@ from .library import Library
 from . import analysis
 from .analysis import Analysis
 
-from .formats import (system_from_text, system_from_array,
+from .formats import (system_from_text, system_from_array, 
                       system_from_yaml, system_to_yaml,
                       system_from_json, system_to_json)
 
